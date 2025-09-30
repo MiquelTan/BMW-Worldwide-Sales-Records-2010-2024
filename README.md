@@ -23,3 +23,9 @@ What's the correlation between model launches and overall sales growth?
 Which regions show the strongest growth potential for future expansion?
 
 How do economic indicators correlate with BMW sales in different markets?
+
+Which models perform best in which regions?
+
+How do color preferences change over time in different markets?
+
+Do premium models perform differently in economic downturns?
