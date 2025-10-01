@@ -2,6 +2,8 @@
 
 BMW Sales Data Analysis Project (2010-2024)  End-to-end data analysis project examining BMW's global sales trends. Demonstrates skills in data cleaning, exploratory analysis, visualization, and deriving actionable business insights from automotive sales data.  **Skills Demonstrated:** Python, SQL, Data Visualization, Business Analytics
 
+source data : https://www.kaggle.com/datasets/ahmadrazakashif/bmw-worldwide-sales-records-20102024/data
+
 Main topic was:
 
 In which year did BMW achieve the highest worldwide sales?
